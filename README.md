@@ -1,5 +1,6 @@
 # GPTs
 This repo collects leaked prompts of GPTs.
+I'll be making some changes to this file
 
 ## Prompts of GPTs
 - [DevRel Guide](./prompts/devrelguide.md) by Rohit Ghumare
